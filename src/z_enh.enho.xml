@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>CLASENH</TOOL>
+   <SHORTTEXT>enhancement</SHORTTEXT>
+   <CLASS>ZCL_TEST_CLAS_WITH_ENHO</CLASS>
+   <PRE_METHODS>
+    <ENHAMETHKEYS>
+     <METHKEY>
+      <CLSNAME>ZCL_TEST_CLAS_WITH_ENHO</CLSNAME>
+      <CMPNAME>RUN</CMPNAME>
+     </METHKEY>
+    </ENHAMETHKEYS>
+   </PRE_METHODS>
+   <TAB_ATTRIBUTES>
+    <ENHCLASSATTRIB>
+     <CLSNAME>ZCL_TEST_CLAS_WITH_ENHO</CLSNAME>
+     <CMPNAME>%_Z_ENH</CMPNAME>
+     <DESCRIPT>SAP-generated, not changeable!</DESCRIPT>
+     <STATE>1</STATE>
+     <EDITORDER>1</EDITORDER>
+     <TYPTYPE>3</TYPTYPE>
+     <TYPE>OBJECT</TYPE>
+     <LOCKED>X</LOCKED>
+    </ENHCLASSATTRIB>
+   </TAB_ATTRIBUTES>
+  </asx:values>
+ </asx:abap>
+</abapGit>
