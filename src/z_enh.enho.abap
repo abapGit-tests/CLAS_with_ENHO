@@ -18,7 +18,7 @@ CLASS lcl_z_enh IMPLEMENTATION.
 *"------------------------------------------------------------------------*
 *" Declaration of PRE-method, do not insert any comments here please!
 *"
-*"methods RUN .
+*"METHODS run .
 *"------------------------------------------------------------------------*
 
     IF 1 = 1.

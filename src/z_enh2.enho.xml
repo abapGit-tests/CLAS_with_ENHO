@@ -19,25 +19,43 @@
      <FULL_NAME>\TY:ZCL_TEST_CLAS_WITH_ENHO\ME:RUN\SE:BEGIN\EI</FULL_NAME>
      <SOURCE>
       <item/>
-      <item>IF 1 = 1.</item>
+      <item>  IF 1 = 1.</item>
       <item/>
-      <item>ENDIF.</item>
+      <item>  ENDIF.</item>
       <item/>
      </SOURCE>
     </ENH_HOOK_IMPL>
    </ENHANCEMENTS>
-   <SPACES>
+   <SOTR>
     <item>
-     <FULL_NAME>\TY:ZCL_TEST_CLAS_WITH_ENHO\ME:RUN\SE:BEGIN\EI</FULL_NAME>
-     <SPACES>
-      <item>0</item>
-      <item>2</item>
-      <item>0</item>
-      <item>2</item>
-      <item>0</item>
-     </SPACES>
+     <HEADER>
+      <CONCEPT>000D3A8FA0651EEBA09C2E7A132588E0</CONCEPT>
+      <CREA_LAN>E</CREA_LAN>
+      <TRALA_TYPE>1</TRALA_TYPE>
+      <OBJID_VEC>AAI=</OBJID_VEC>
+     </HEADER>
+     <ENTRIES>
+      <SOTR_TEXT>
+       <CONCEPT>000D3A8FA0651EEBA09C2E7A132588E0</CONCEPT>
+       <LANGU>E</LANGU>
+       <LFD_NUM>0001</LFD_NUM>
+       <FLAG_CNTXT>X</FLAG_CNTXT>
+       <STATUS>R</STATUS>
+       <LENGTH>030</LENGTH>
+       <TEXT>implicit enhancement</TEXT>
+      </SOTR_TEXT>
+     </ENTRIES>
     </item>
-   </SPACES>
+   </SOTR>
+   <SOTR_USE>
+    <SOTR_USE>
+     <PGMID>R3TR</PGMID>
+     <OBJECT>ENHO</OBJECT>
+     <OBJ_NAME>Z_ENH2</OBJ_NAME>
+     <CONCEPT>000D3A8FA0651EEBA09C2E7A132588E0</CONCEPT>
+     <LFD_NUM>0001</LFD_NUM>
+    </SOTR_USE>
+   </SOTR_USE>
   </asx:values>
  </asx:abap>
 </abapGit>
